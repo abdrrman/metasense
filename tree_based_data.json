@@ -1,0 +1,121 @@
+{
+    "Housing adaptation":{
+        "description": "Easily adapt your home with our solutions that make homes safer, more comfortable and promote healthy aging.",
+        "generated_description": "This category encompasses services aimed at modifying homes to improve safety, accessibility, and comfort for individuals as they age or for those with specific needs. It includes installations and renovations like rolling shutters, stair lifts, secure showers, and wall-hung toilets to enhance the living environment.",
+        "services": [
+            "Autonomy diagnosis at home",
+            "Rolling shutter",
+            "Secure shower",
+            "Stair lift",
+            "wall-hung toilet"
+        ]
+    },
+    "Financial help":{
+        "description":"Discover the possible financial aid for seniors and caregivers, and ensure a better quality of life and optimized financial support.",
+        "generated_description": "Financial Help includes services and programs designed to provide financial assistance and support to seniors and their caregivers. It covers a range of aids, from subsidies for housing adaptation and energy expenses to allowances for personal autonomy and support for returning home after hospitalization.",
+        "services":[
+            "Financial aid assistance",
+            "Ma Prime Adapt’",
+            "Go out More",
+            "Assistance in Returning Home After Hospitalization",
+            "Energy check",
+            "The APA"
+        ]
+    },
+    "Insurance and foresight":{
+        "description":"Ensure your well-being and peace of mind in all circumstances thanks to our insurance and pension solutions",
+        "generated_description": "The Insurance and Foresight category gathers insurance products and planning services that aim to secure individuals' future well-being. It involves health insurance, funeral planning, and hospitalization coverage, offering protection against unforeseen medical expenses and ensuring peace of mind.",
+        "services":[
+            "Mutual Health",
+            "Funeral Convention Insurance",
+            "Hospital insurance"
+        ]
+    },
+    "Energy saving":{
+        "description":"Discover solutions to help you optimize your energy efficiency and achieve significant energy savings now.",
+        "generated_description": "Energy Saving refers to services and solutions focused on reducing energy consumption and improving the energy efficiency of homes. This category includes the installation of boilers, water heaters, insulation, and heat pumps that contribute to lower energy bills and environmental sustainability.",
+        "services":[
+            "Boiler",
+            "Water heater",
+            "Insulation",
+            "Heat pump"
+        ]
+    },
+    "Finances and credits":{
+        "description":"Ensure peace of mind and financial serenity with tailor-made solutions for managing your finances and credits.",
+        "generated_description": "This category is dedicated to financial services that help manage and consolidate debts, offering solutions for individuals looking to simplify their financial commitments. It includes services like credit redemption, which consolidates various types of loans into a single payment plan for easier management.",
+        "services":[
+            "Redemption of credits"
+        ]
+    },
+    "Specialized housing":{
+        "description":"Discover specialized housing for seniors, a place where comfort, security and conviviality come together to offer you an active and peaceful retirement.",
+        "generated_description": "Specialized Housing includes a variety of living arrangements designed to meet the unique needs of seniors and individuals with disabilities. It encompasses senior service residences, family welcome programs, intergenerational shared accommodations, autonomy residences, and care establishments for dependent elderly people (EHPADs).",
+        "services":[
+            "Senior service residences",
+            "Family welcome",
+            "Intergenerational shared accommodation",
+            "Autonomy residence",
+            "EHPAD"
+        ]
+    },
+    "Medical material":{
+        "description":"Improve your comfort and autonomy at home with products specially designed to address everyday issues.",
+        "generated_description": "Medical Material covers products and devices intended to improve comfort, safety, and autonomy at home for individuals with health-related needs. This includes items like can openers for those with grip difficulties, bath boards, shower stools, compression stockings, bed support bars, and walking canes.",
+        "services":[
+            "Suitable can opener",
+            "Bath board",
+            "Shower stool",
+            "Compression stockings",
+            "Bed support bar",
+            "Walking canes"
+        ]
+    },
+    "Heritage":{
+        "description":"Discover wealth services optimized for the preservation of your finances and for peaceful estate planning.",
+        "generated_description": "The Heritage category focuses on services related to asset and estate management, specifically designed to help individuals plan and manage their financial legacy. It includes making lifetime donations to transfer assets to beneficiaries in a tax-efficient manner.",
+        "services":[
+            "Donation during lifetime"
+        ]
+    },
+    "health and wellbeing":{
+        "description":"Support your well-being by maintaining optimal health and staying active, with wellness and health solutions.",
+        "generated_description": "Health and Wellbeing encompasses services aimed at supporting physical health, mobility, and overall wellness. This includes care coordination, physiotherapy, assistive chairs for mobility, and technology solutions like tablets designed for seniors.",
+        "services":[
+            "Care manager",
+            "Physiotherapist",
+            "Lift chair",
+            "Senior tablet"
+        ]
+    },
+    "Security":{
+        "description":"Live with complete confidence and security at home thanks to solutions to prevent incidents, particularly the risk of falls.",
+        "generated_description": "Security includes products and services designed to prevent accidents and ensure safety within the home, particularly for seniors. It covers items like shower exit mats, shower mats, devices for the visually impaired, smoke detectors, and systems for remote assistance in emergencies.",
+        "services":[
+            "Shower exit mat",
+            "Shower mat",
+            "Smartvision",
+            "Smoke detector",
+            "Remote assistance",
+            "Bright path"
+        ]
+    },
+    "Personal services":{
+        "description":"Simplify your daily life and improve your quality of life or that of your loved one with professional support solutions.",
+        "generated_description": "Personal Services are aimed at improving the quality of life for individuals by offering support with daily tasks, mobility, and household management. This includes transportation services, housekeeping, assistance with small jobs and gardening, and meal delivery.",
+        "services":[
+            "Transportation on demand",
+            "Housekeeper",
+            "Help with small jobs and gardening",
+            "Carrying meals"
+        ]
+    },
+    "Social life and leisure":{
+        "description":"Promote your well-being, flourish and develop your social connections thanks to adapted leisure and activity solutions.",
+        "generated_description": "This category is focused on services that enhance social engagement, recreation, and vacation opportunities for seniors. It includes programs for adapted holidays and subsidized vacation schemes to promote well-being and social connections.",
+        "services":[
+            "Adapted holidays",
+            "Seniors on vacation program"
+        ]
+    }
+}

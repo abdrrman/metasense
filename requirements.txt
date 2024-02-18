@@ -1,0 +1,4 @@
+termcolor
+langchain
+streamlit
+openai==1.3.2
